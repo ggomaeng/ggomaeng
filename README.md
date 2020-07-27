@@ -9,9 +9,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggomaeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi there 👋
+Hello there! 👋
 
-I am Co-founder of [Sketchware](https://play.google.com/store/apps/details?id=com.besome.sketch). I am currently working as a Front-end Engineer at HUNT, where I'm turning coffee into code.
+I am the Co-founder of [Sketchware](https://play.google.com/store/apps/details?id=com.besome.sketch). I am currently working as a Front-end Engineer at HUNT, where I'm turning coffee into code.
 
 ### 🎓 Education
 

@@ -5,8 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sungwoopark95//)](https://www.linkedin.com/in/sungwoopark95//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sungwoopark95@gmail.com)](mailto:sungwoopark95@gmail.com)
 
-[![Github Followers](https://img.shields.io/github/followers/ggomaeng?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/ggomaeng?tab=followers)
-
 [![ggomaeng's github stats](https://github-readme-stats.vercel.app/api?username=ggomaeng&show_icons=true&hide=contribs,issues)](https://github.com/ggomaeng)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggomaeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

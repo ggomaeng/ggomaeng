@@ -57,6 +57,7 @@ I am Co-founder of [Sketchware](https://play.google.com/store/apps/details?id=co
 
 ### 🥜 My Projects in a Nutshell
 
+
 [Flixgang](https://chrome.google.com/webstore/detail/flixgang-netflix-socializ/ejlhofdnoicmmgapgeipegeacjikkonk)
 
 <a href="https://chrome.google.com/webstore/detail/flixgang-netflix-socializ/ejlhofdnoicmmgapgeipegeacjikkonk">
@@ -74,6 +75,11 @@ I am Co-founder of [Sketchware](https://play.google.com/store/apps/details?id=co
 <a href="https://github.com/ggomaeng/react-native-spotify-ui">
 <img src="https://raw.githubusercontent.com/ggomaeng/react-native-spotify-ui/master/demo.gif" height="400"/>
 </a>
+
+<details>
+<summary>See More 👀</summary>
+<p>
+  
 
 [Gmail UI Clone](https://github.com/ggomaeng/react-native-gmail)
 
@@ -152,3 +158,6 @@ I am Co-founder of [Sketchware](https://play.google.com/store/apps/details?id=co
 <a href="https://devpost.com/software/emicus">
 <img src="http://sungwoopark.com/images/medhacks/4.gif" height="400"/>
 </a>
+
+</p>
+</details>

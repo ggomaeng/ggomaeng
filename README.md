@@ -7,7 +7,7 @@
 
 [![ggomaeng's github stats](https://github-readme-stats.vercel.app/api?username=ggomaeng&show_icons=true&hide=contribs,issues)](https://github.com/ggomaeng)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggomaeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggomaeng&layout=compact)](https://github.com/ggomaeng)
 
 Hello there! 👋
 

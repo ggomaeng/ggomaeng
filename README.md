@@ -55,13 +55,6 @@ I am the Co-founder of [Sketchware](https://play.google.com/store/apps/details?i
 
 ### 🥜 My Projects in a Nutshell
 
-
-[Flixgang](https://chrome.google.com/webstore/detail/flixgang-netflix-socializ/ejlhofdnoicmmgapgeipegeacjikkonk)
-
-<a href="https://chrome.google.com/webstore/detail/flixgang-netflix-socializ/ejlhofdnoicmmgapgeipegeacjikkonk">
-<img src="https://img.youtube.com/vi/MGIEgxha59U/0.jpg" height="400"/>
-</a>
-
 [Facebook UI Clone](https://github.com/ggomaeng/react-native-facebook-ui)
 
 <a href="https://github.com/ggomaeng/react-native-facebook-ui">

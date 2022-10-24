@@ -11,7 +11,9 @@
 
 Hello there! 👋
 
-I am the Co-founder of [Sketchware](https://play.google.com/store/apps/details?id=com.besome.sketch). I am currently working as a Front-end Engineer at HUNT, where I'm turning coffee into code.
+I am the Co-founder at HUNT, where I'm turning coffee into code.
+
+I was ex Co-founder of [Sketchware](https://play.google.com/store/apps/details?id=com.besome.sketch). 
 
 ### 🎓 Education
 

@@ -11,7 +11,7 @@
 
 Hello there! 👋
 
-I am the Co-founder at HUNT, where I'm turning coffee into code.
+I am the Co-founder of HUNT, where I'm turning coffee into code.
 
 I was ex Co-founder of [Sketchware](https://play.google.com/store/apps/details?id=com.besome.sketch). 
 

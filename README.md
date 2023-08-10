@@ -65,6 +65,18 @@ I was ex Co-founder of [Sketchware](https://play.google.com/store/apps/details?i
 
 ### 🥜 My Projects in a Nutshell
 
+[Web3Faces](https://web3faces.com)
+
+<a href="https://www.producthunt.com/products/web3-faces">
+<img src="https://i.imgur.com/DGYW2ig.png" height="400"/>
+</a>
+
+[ggomagang - Web3 Growth Community](https://ggomagang.com)
+
+<a href="https://ggomagang.com">
+<img src="https://i.imgur.com/vHFiB5G.gif" height="400"/>
+</a>
+
 [Facebook UI Clone](https://github.com/ggomaeng/react-native-facebook-ui)
 
 <a href="https://github.com/ggomaeng/react-native-facebook-ui">

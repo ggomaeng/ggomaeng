@@ -13,11 +13,11 @@ Hello there! 👋
 
 I am the Co-founder of HUNT, where I'm turning coffee into code.
 
-I was ex Co-founder of [Sketchware](https://play.google.com/store/apps/details?id=com.besome.sketch). 
+I was ex Co-founder of [Sketchware](https://sketchware-docs.vercel.app/), which has more than 10M installs. 
 
 ### 🎓 Education
 
-- Johns Hopkins University, Bloomberg Scholar (2014-2019)
+- Johns Hopkins University, Bloomberg Scholar, Full-ride Scholarship (2014-2019)
 
 ---
 

@@ -23,6 +23,14 @@ I was ex Co-founder of [Sketchware](https://play.google.com/store/apps/details?i
 
 ### 🖤 Hackathon Experiences
 
+#### 2023
+
+- **2nd Place** - [PerSecond](https://forum.aptoslabs.com/t/announcing-the-2023-seoul-hack-winners/247244) at Aptos Seoul Hack, Seoul, KR
+
+#### 2023
+
+- **1nd Place** - [ChatCasso](https://twitter.com/BNBCHAIN/status/1613927759000080384) at BNB Chain Hackathon, Seoul, KR
+
 #### 2020
 
 - **2nd Place** - [LOLHunt](https://devpost.com/software/lol-hunt) at Blockstack - Online Hackathon

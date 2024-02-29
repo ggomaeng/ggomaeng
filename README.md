@@ -65,6 +65,12 @@ I was ex Co-founder of [Sketchware](https://sketchware-docs.vercel.app/), which 
 
 ### 🥜 My Projects in a Nutshell
 
+[My Online Wedding Invitation :)](https://0821.love/)
+
+<a href="https://0821.love">
+<img src="https://i.imgur.com/1NtvZ3b.png" height="400"/>
+</a>
+
 [Web3Faces](https://web3faces.com)
 
 <a href="https://www.producthunt.com/products/web3-faces">
